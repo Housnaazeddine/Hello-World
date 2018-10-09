@@ -1,1 +1,2 @@
 i just wqnt to test the commit command and stuff
+and now i am testing the pull command
